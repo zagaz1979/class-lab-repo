@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Cesar Garcia  
+- Certification: Control de version  
 
 ## Instructions
 Please replace the placeholders with your details:
